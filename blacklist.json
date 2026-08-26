@@ -23,8 +23,17 @@
     "reason": "Abuse of power, gross misconduct, unfit to be a member of the community, Discord Terms of Service violations.",
     "moderator": "grey_i_"
   },
-
-    {
+  
+  {
+    "roblox_id": "3948741792",
+    "roblox_username": "mistylikeyss",
+    "discord_id": "1224290208678285365",
+    "discord_username": "doc_tor2",
+    "reason": "Security risk to the community.",
+    "moderator": "LARPC Ownership Team"
+  },
+  
+  {
     "roblox_id": "1841233101",
     "roblox_username": "DPX_lAro",
     "discord_id": "1229505508415770644",
@@ -32,15 +41,15 @@
     "reason": "Unfit to be a member of our community, potentially underaged.",
     "moderator": "grey_i_"
   },
-
-    {
+  
+  {
     "roblox_id": "1145059622",
     "roblox_username": "MercSkyllan",
     "discord_id": "1071316693864960022",
     "discord_username": "valiantmercx",
     "reason": "Racist member, unfit to be a member of our community, user has been reported to Discord. Violations of Discord Terms of Service.",
     "moderator": "grey_i_"
-  }
+  },
 
   {
     "roblox_id": "7328156335",
@@ -49,14 +58,15 @@
     "discord_username": "lewilang2009",
     "reason": "Unfit to be a member of our community, sick individual who has the sole intention to scare minors to gain an unfair advantage over them. Unappealable blacklist. This individual should be avoided.",
     "moderator": "grey_i_"
-  }
-{
+  },
+  
+  {
     "roblox_id": "3052100484",
     "roblox_username": "TixAreGoated",
     "discord_id": "1352712386343079966",
     "discord_username": "wolfeyxkat",
     "reason": "Discord Community Guidelines Violations. Failure to uphold and maintain a Community. Harassment towards members of the Ownership Team. ",
     "moderator": "grey_i_"
-  },
+  }
   
 ]
